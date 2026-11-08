@@ -5,6 +5,9 @@ Images d'une fiche de personnage Roll20 personnalisée pour Anima Beyond Fantasy
 
 - `icon-NN.svg` : icônes SVG du thème « Grimoire ». Dessins originaux, libres d'utilisation (licence CC0).
 - `arcana-bg.jpg` : fond de l'arbre Arcana.
+- `logo.png`, `border.png` : logo et bordure de la fiche d'origine (dépôt Roll20 `roll20-character-sheets`,
+  Anima-Beyond-Fantasy/img), copiés ici pour ne plus en dépendre. `filet.png` (copie de `border.png`) remplace le filet
+  de la fiche d'origine, hébergé sur casimages et disparu.
 - `img-<empreinte>.<ext>` : fonds et bordures du thème « Livre » et du choix de thème de la fiche (fond Gaia,
   parchemin Prometheum, glyphes de l'Arcana Exxet, cadres et ornements). Le nom est une empreinte du contenu :
   une image modifiée devient un nouveau fichier, les anciennes adresses restent valides.
