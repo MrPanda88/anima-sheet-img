@@ -11,5 +11,7 @@ Images d'une fiche de personnage Roll20 personnalisée pour Anima Beyond Fantasy
 - `img-<empreinte>.<ext>` : fonds et bordures du thème « Livre » et du choix de thème de la fiche (fond Gaia,
   parchemin Prometheum, glyphes de l'Arcana Exxet, cadres et ornements). Le nom est une empreinte du contenu :
   une image modifiée devient un nouveau fichier, les anciennes adresses restent valides.
+- `jdr-d100.ttf`, `jdr-d10.ttf` : polices d'icônes des boutons de jet (dé d100, dé d10), un seul glyphe sur « t ».
+  Dessins originaux, libres d'utilisation (licence CC0).
 
 Les noms et les fichiers sont produits par l'export de la fiche (`node build.mjs --roll20 --img-base …`, dossier `export/img/`).
